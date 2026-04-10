@@ -1,0 +1,172 @@
+[
+    {
+        "Nama": "  Bulbasaur  ",
+        "Tipe": "Fire, Water, Grass",
+        "Total_Stat": 265
+    },
+    {
+        "Nama": "Ivysaur",
+        "Tipe": "Water, Grass",
+        "Total_Stat": 288
+    },
+    {
+        "Nama": "Venusaur",
+        "Tipe": "Grass, Electric",
+        "Total_Stat": 328
+    },
+    {
+        "Nama": "Charmander",
+        "Tipe": "Electric, Psychic",
+        "Total_Stat": 318
+    },
+    {
+        "Nama": "Charmeleon",
+        "Tipe": "Psychic, Normal",
+        "Total_Stat": 348
+    },
+    {
+        "Nama": "  Charizard  ",
+        "Tipe": "Normal, Flying",
+        "Total_Stat": 368
+    },
+    {
+        "Nama": "Squirtle",
+        "Tipe": "Flying, Poison",
+        "Total_Stat": 288
+    },
+    {
+        "Nama": "Wartortle",
+        "Tipe": "Poison, Bug, Rock",
+        "Total_Stat": 298
+    },
+    {
+        "Nama": "Blastoise",
+        "Tipe": "Bug, Rock",
+        "Total_Stat": 338
+    },
+    {
+        "Nama": "Caterpie",
+        "Tipe": "Rock, Ground",
+        "Total_Stat": 203
+    },
+    {
+        "Nama": "  Metapod  ",
+        "Tipe": "Ground, Steel",
+        "Total_Stat": 235
+    },
+    {
+        "Nama": "Butterfree",
+        "Tipe": "Steel",
+        "Total_Stat": 250
+    },
+    {
+        "Nama": "Weedle",
+        "Tipe": "Fire, Water",
+        "Total_Stat": 263
+    },
+    {
+        "Nama": "Kakuna",
+        "Tipe": "Water, Grass",
+        "Total_Stat": 280
+    },
+    {
+        "Nama": "Beedrill",
+        "Tipe": "Grass, Electric, Psychic",
+        "Total_Stat": 320
+    },
+    {
+        "Nama": "  Pidgeot  ",
+        "Tipe": "Electric, Psychic",
+        "Total_Stat": 309
+    },
+    {
+        "Nama": "Pidgeotto",
+        "Tipe": "Psychic, Normal",
+        "Total_Stat": 349
+    },
+    {
+        "Nama": "Pidgeyer",
+        "Tipe": "Normal, Flying",
+        "Total_Stat": 379
+    },
+    {
+        "Nama": "Rattata",
+        "Tipe": "Flying, Poison",
+        "Total_Stat": 250
+    },
+    {
+        "Nama": "Raticate",
+        "Tipe": "Poison, Bug",
+        "Total_Stat": 280
+    },
+    {
+        "Nama": "  Spearow  ",
+        "Tipe": "Bug, Rock",
+        "Total_Stat": 285
+    },
+    {
+        "Nama": "Fearow",
+        "Tipe": "Rock, Ground, Steel",
+        "Total_Stat": 355
+    },
+    {
+        "Nama": "Ekans",
+        "Tipe": "Ground, Steel",
+        "Total_Stat": 276
+    },
+    {
+        "Nama": "Arbok",
+        "Tipe": "Steel",
+        "Total_Stat": 346
+    },
+    {
+        "Nama": "Pikachu",
+        "Tipe": "Fire, Water",
+        "Total_Stat": 275
+    },
+    {
+        "Nama": "  Raichu  ",
+        "Tipe": "Water, Grass",
+        "Total_Stat": 355
+    },
+    {
+        "Nama": "Magnemite",
+        "Tipe": "Grass, Electric",
+        "Total_Stat": 240
+    },
+    {
+        "Nama": "Magneton",
+        "Tipe": "Electric, Psychic",
+        "Total_Stat": 310
+    },
+    {
+        "Nama": "Farfetchd",
+        "Tipe": "Psychic, Normal, Flying",
+        "Total_Stat": 225
+    },
+    {
+        "Nama": "Doduo",
+        "Tipe": "Normal, Flying",
+        "Total_Stat": 270
+    },
+    {
+        "Nama": "  Dodrio  ",
+        "Tipe": "Flying, Poison",
+        "Total_Stat": 280
+    },
+    {
+        "Nama": "Lickitung",
+        "Tipe": "Poison, Bug",
+        "Total_Stat": 245
+    },
+    {
+        "Nama": "Gloom",
+        "Tipe": "Bug, Rock",
+        "Total_Stat": 360
+    },
+    {
+        "Nama": "Vileplume",
+        "Tipe": "Rock, Ground",
+        "Total_Stat": 405
+    }
+]

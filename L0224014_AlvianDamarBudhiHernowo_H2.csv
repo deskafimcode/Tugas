@@ -1,0 +1,35 @@
+Nama,Tipe,Total_Stat
+  Bulbasaur  ,"Fire, Water, Grass",265
+Ivysaur,"Water, Grass",288
+Venusaur,"Grass, Electric",328
+Charmander,"Electric, Psychic",318
+Charmeleon,"Psychic, Normal",348
+  Charizard  ,"Normal, Flying",368
+Squirtle,"Flying, Poison",288
+Wartortle,"Poison, Bug, Rock",298
+Blastoise,"Bug, Rock",338
+Caterpie,"Rock, Ground",203
+  Metapod  ,"Ground, Steel",235
+Butterfree,Steel,250
+Weedle,"Fire, Water",263
+Kakuna,"Water, Grass",280
+Beedrill,"Grass, Electric, Psychic",320
+  Pidgeot  ,"Electric, Psychic",309
+Pidgeotto,"Psychic, Normal",349
+Pidgeyer,"Normal, Flying",379
+Rattata,"Flying, Poison",250
+Raticate,"Poison, Bug",280
+  Spearow  ,"Bug, Rock",285
+Fearow,"Rock, Ground, Steel",355
+Ekans,"Ground, Steel",276
+Arbok,Steel,346
+Pikachu,"Fire, Water",275
+  Raichu  ,"Water, Grass",355
+Magnemite,"Grass, Electric",240
+Magneton,"Electric, Psychic",310
+Farfetchd,"Psychic, Normal, Flying",225
+Doduo,"Normal, Flying",270
+  Dodrio  ,"Flying, Poison",280
+Lickitung,"Poison, Bug",245
+Gloom,"Bug, Rock",360
+Vileplume,"Rock, Ground",405
